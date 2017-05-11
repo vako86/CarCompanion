@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy Mileage Converter</string>
+    <string name="hint_text">წვის მაჩვენებელი</string>
+    <string name="title_name">გამოთვლის მეთოდი:</string>
+    <string name="calc_button">გამოთვლა</string>
+
+</resources>
