@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'GraphicsAndTween'" />
-    <option name="defaultScopeName" value="Project 'GraphicsAndTween'" />
+    <option name="customScope" value="Project 'swipe from baga'" />
+    <option name="defaultScopeName" value="Project 'swipe from baga'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'GraphicsAndTween'" />
+    <option name="SEARCH_SCOPE" value="Project 'swipe from baga'" />
   </component>
 </application>
